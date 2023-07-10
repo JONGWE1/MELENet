@@ -51,6 +51,7 @@ Quantitative comparison on LOL dataset about MSE, PSNR, SSIM, LPIPS and DISTS. T
 ![](docs/LOL_results.jpg)
 
 
+***Image Dehazing:***
 Quantitative comparison on O-HAZE dataset, I-HAZE dataset, NH-HAZE dataset and Densehaze dataset about PSNR and SSIM. The highlighted in bold represents the best results.
 
 ![](docs/DEHAZE_results.jpg)
