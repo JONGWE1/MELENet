@@ -1,0 +1,5 @@
+For Lowlight Image Enhancement:
+You can download weights from [Google Drive](https://drive.google.com/file/d/1YAaUmk_CQq2IMIeIlYzRK_5t_hE0hD3u/view?usp=drive_link).
+
+For Image Dehazing:
+You can download weights from [Google Drive](https://drive.google.com/file/d/1klY0plyRKeHV8nar5yiSBtI27Z_BG5V-/view?usp=drive_link).
